@@ -1,8 +1,8 @@
 ---
-title: Resume
+title: Chess Project
 date: 2025-02-24 16:35:00 -0700
-categories: [Resume]
-tags: [resume]
+categories: [Project]
+tags: [kotlin, project, game]
 ---
 
 # Chess
