@@ -1,5 +1,5 @@
 ---
-title: Chess Project
+title: Weevil Whomper
 date: 2025-02-24 19:16:00 -0700
 categories: [Project]
 tags: [kotlin, project, game]
