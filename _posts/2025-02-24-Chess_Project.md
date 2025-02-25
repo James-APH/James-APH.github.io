@@ -5,8 +5,6 @@ categories: [Project]
 tags: [kotlin, project, game]
 ---
 
-# Chess
-
 ## Overview
 
 This is a game I am using to teach me the basics of kotlin. I have
