@@ -1,8 +1,8 @@
 ---
 title: Weevil Whomper
-date: 2025-02-24 19:16:00 -0700
-categories: [Project]
-tags: [kotlin, project, game]
+date: 2025-02-24 23:01:00 -0700
+categories: [School]
+tags: [python, project, game, school]
 ---
 
 This is the project I made for an animation class. Before creating this
